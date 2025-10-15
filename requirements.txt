@@ -1,4 +1,4 @@
 flask
 gunicorn
 rembg
-onnxruntime==1.17.1
+onnxruntime==1.20.0
